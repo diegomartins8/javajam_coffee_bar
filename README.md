@@ -1,5 +1,5 @@
 # javajam_coffee_bar
-Multiple page website for a fictional coffee shop built with HTML and CSS, with focus on layout navigation and page structure.
+Website for a fictional coffee shop, with focus on layout navigation and page structure.
 
 ---
 
