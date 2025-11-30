@@ -4,7 +4,7 @@ Website for a fictional coffee shop, with focus on layout navigation and page st
 ---
 
 ### Live site  
-https://diegomartins8.github.io/javajam_coffee_bar/jobs.html 
+https://diegomartins8.github.io/javajam_coffee_bar/ 
 
 ---
 
